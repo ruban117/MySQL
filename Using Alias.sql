@@ -1,0 +1,1 @@
+SELECT id AS Id  ,name AS "Student Name" , phone as "Phone Number", city AS SAHAR FROM  person;

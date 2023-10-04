@@ -1,0 +1,1 @@
+SELECT * FROM person WHERE age IS NULL;

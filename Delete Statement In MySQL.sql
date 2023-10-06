@@ -1,0 +1,15 @@
+SELECT * FROM tih;
+
+COMMIT;
+
+ROLLBACK;
+
+DELETE FROM tih
+WHERE id=2;
+
+DELETE FROM tih;
+
+SELECT * FROM person;
+
+DELETE FROM person
+WHERE gender= 'F';
